@@ -26,10 +26,15 @@
 
 <br>
 
-- 👋 Hello! I'm a Data Engineer with over 5 years of experience in building efficient data pipelines and cloud migrations. 
-- Expertise in cloud platforms (Azure, AWS), leveraging Python, SQL, and machine learning libraries like Pandas, NumPy, and TensorFlow to drive insights.
-- I have a proven track record of automating workflows and creating scalable solutions for business intelligence through Power BI and Tableau.
-- Passionate about solving real-world problems using data. Let’s connect and explore data-driven solutions! 🏆
+- 👋 Hello! I'm a Power BI Analyst with over 6 years of experience transforming raw data into actionable insights through interactive dashboards and reports.
+
+- Proficient in building scalable data models, DAX measures, and insightful visualizations using Power BI, with additional experience in Tableau.
+
+- Strong background in SQL, Python, and cloud data platforms like Azure and AWS to support end-to-end data analysis workflows.
+
+- Experienced in automating reporting processes and developing dynamic, user-friendly dashboards for business decision-making.
+
+- Passionate about turning complex data into clear, compelling stories that drive business impact. Let’s connect and explore how we can unlock value from data! 📊
   
 <br>
 
@@ -100,11 +105,9 @@
 ## 📫 Connect with me
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a target="_blank" href="https://www.linkedin.com/in/naveenreddy-n-8190a819b/">
-            <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/naveenly">
             <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:naveenly.7@gmail.com">
+        <a style="margin-left: 10px;" target="_blank" href="mailto:naveenly.1@gmail.com">
             <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
  </div>
 </p>
