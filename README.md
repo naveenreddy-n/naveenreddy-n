@@ -102,6 +102,57 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-000?logo=Apache-Kafka)
 ![Terraform](https://img.shields.io/badge/-Terraform-000)
 
+<br>
+🏦 Insurance Domain Projects
+<br>
+🔍 Insurance Claim Fraud Detection Dashboard
+
+Developed an advanced Power BI dashboard to monitor and identify suspicious insurance claims.
+
+Integrated predictive scoring, trend analysis, and claim metadata for fraud detection.
+
+Reduced fraud investigation time by 35% using dynamic visuals and risk-focused filters.
+
+<br>
+📉 Policy Lapse & Retention Analysis
+
+Created a retention insights dashboard to analyze policy lapse patterns and renewal trends.
+
+Built DAX-based lapse ratio metrics and customer segmentation by age, region, and product.
+
+Empowered business teams to execute targeted retention campaigns, improving renewals by 12%.
+
+<br>
+📊 Underwriting Risk Exposure & Agent Performance
+
+Designed an interactive report to assess underwriting risk levels by agent and product.
+
+Implemented RAG status indicators and slicers for region, product line, and risk tier.
+
+Helped reduce loss ratio variance by providing real-time agent performance tracking.
+
+<br>
+🎓 University Domain Projects
+<br>
+🎓 Student Enrollment & Dropout Analysis
+
+Built a comprehensive dashboard to track enrollment trends and identify dropout hotspots.
+
+Combined academic data and survey feedback to generate actionable retention insights.
+
+Helped increase program retention by 15% through timely data-driven interventions.
+
+<br>
+👩‍🏫 Faculty Performance & Teaching Effectiveness Report
+
+Developed a Power BI report combining faculty evaluations, GPA trends, and teaching load.
+
+Used row-level security (RLS) to control access by department and role.
+
+Improved curriculum quality and teaching outcomes using data-backed instructor feedback.
+
+<br>
+
 ## 📫 Connect with me
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
