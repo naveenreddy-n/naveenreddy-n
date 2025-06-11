@@ -102,54 +102,137 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-000?logo=Apache-Kafka)
 ![Terraform](https://img.shields.io/badge/-Terraform-000)
 
-<br>
-🏦 Insurance Domain Projects
-<br>
-🔍 Insurance Claim Fraud Detection Dashboard
-
-Developed an advanced Power BI dashboard to monitor and identify suspicious insurance claims.
-
-Integrated predictive scoring, trend analysis, and claim metadata for fraud detection.
-
-Reduced fraud investigation time by 35% using dynamic visuals and risk-focused filters.
+### Projects:
 
 <br>
-📉 Policy Lapse & Retention Analysis
 
-Created a retention insights dashboard to analyze policy lapse patterns and renewal trends.
+🛡️ 1. Insurance Claim Fraud Detection Dashboard
+Objective: Detect abnormal patterns in insurance claims to assist fraud teams in early identification of fraudulent activity.
 
-Built DAX-based lapse ratio metrics and customer segmentation by age, region, and product.
+Data Sources:
 
-Empowered business teams to execute targeted retention campaigns, improving renewals by 12%.
+Policy and claim data from internal claims systems
 
-<br>
-📊 Underwriting Risk Exposure & Agent Performance
+External fraud scoring feeds (optional API integration)
 
-Designed an interactive report to assess underwriting risk levels by agent and product.
+Regional and agent metadata
 
-Implemented RAG status indicators and slicers for region, product line, and risk tier.
+Power BI Features Used:
 
-Helped reduce loss ratio variance by providing real-time agent performance tracking.
+DAX-based scoring filters
 
-<br>
-🎓 University Domain Projects
-<br>
-🎓 Student Enrollment & Dropout Analysis
+Multi-level drilldowns by claim type, region, and agent
 
-Built a comprehensive dashboard to track enrollment trends and identify dropout hotspots.
+Time-series visuals and slicers for dynamic trend filtering
 
-Combined academic data and survey feedback to generate actionable retention insights.
+Conditional formatting to highlight high-risk claims
 
-Helped increase program retention by 15% through timely data-driven interventions.
+Outcome:
+Reduced average fraud investigation turnaround by 35%, allowing the SIU (Special Investigation Unit) to prioritize claims based on visualized fraud likelihood scores.
 
 <br>
-👩‍🏫 Faculty Performance & Teaching Effectiveness Report
 
-Developed a Power BI report combining faculty evaluations, GPA trends, and teaching load.
+📊 2. Policy Lapse & Customer Retention Dashboard
+Objective: Analyze policy lapse trends and retention behaviors to support customer engagement strategies.
 
-Used row-level security (RLS) to control access by department and role.
+Data Sources:
 
-Improved curriculum quality and teaching outcomes using data-backed instructor feedback.
+Policy lifecycle database
+
+Customer contact history and renewal actions
+
+Product catalog metadata
+
+Power BI Features Used:
+
+DAX measures for lapse ratio, renewal rate, and customer age groups
+
+Cohort analysis using calculated columns and date-based grouping
+
+Custom slicers by age group, policy type, tenure
+
+KPI cards with goal thresholds
+
+Outcome:
+Enabled business teams to identify high-risk lapse cohorts and launch personalized retention campaigns, improving renewal rates in key segments by up to 12%.
+
+<br>
+
+🧾 3. Underwriting Risk & Agent Performance Report
+Objective: Evaluate underwriting quality and track agent-wise risk exposure at a portfolio level.
+
+Data Sources:
+
+Underwriting approval records
+
+Claim experience by policy
+
+Agent profile and performance data
+
+Power BI Features Used:
+
+Custom visuals for risk scoring
+
+Region- and agent-based drillthrough
+
+RAG (Red-Amber-Green) visual indicators
+
+Measures comparing expected vs. actual loss ratios
+
+Outcome:
+Provided underwriters and regional managers a risk heatmap of agent portfolios, highlighting underwriting errors and promoting informed corrective actions.
+
+<br>
+
+🧑‍🎓 4. Student Enrollment & Dropout Trend Dashboard
+Objective: Monitor student enrollment behavior and dropout hotspots across programs and academic years.
+
+Data Sources:
+
+Student Information System (SIS)
+
+Program/course metadata
+
+Exit surveys and support service usage logs
+
+Power BI Features Used:
+
+Historical trend line visualizations
+
+Dropout segmentation by gender, year, and major
+
+Forecasting using exponential smoothing
+
+Bookmarks for department-wise views
+
+Outcome:
+Helped academic leadership detect early dropout signals and reallocate advising resources. One program saw a 15% improvement in retention after targeted interventions.
+
+<br>
+
+👩‍🏫 5. Faculty Teaching Effectiveness Dashboard
+Objective: Assess faculty performance using student feedback, workload distribution, and academic outcomes.
+
+Data Sources:
+
+Course feedback surveys
+
+Student grades and pass rates
+
+Faculty teaching schedules
+
+Power BI Features Used:
+
+Row-level security (RLS) by department
+
+Custom tooltips showing GPA distribution vs. feedback score
+
+DAX ranking of top-performing instructors
+
+Semester and course-level filters
+
+Outcome:
+Improved transparency in teaching evaluation. Faculty received data-driven feedback, leading to enhanced curriculum quality and increased student satisfaction scores.
 
 <br>
 
